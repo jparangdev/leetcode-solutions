@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.TwoSum import TwoSum
+from solutions.easy.TwoSum import TwoSum
 
 
 class TestTwoSum(unittest.TestCase):

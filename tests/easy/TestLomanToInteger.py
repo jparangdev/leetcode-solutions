@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.LomanToInteger import LomanToInteger
+from solutions.easy.LomanToInteger import LomanToInteger
 
 
 class TestLomanToInteger(unittest.TestCase):

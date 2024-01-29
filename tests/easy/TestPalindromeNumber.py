@@ -1,6 +1,6 @@
 import unittest
 
-from solutions.PalindromeNumber import PalindromeNumber
+from solutions.easy.PalindromeNumber import PalindromeNumber
 
 
 class TestPalindromeNumber(unittest.TestCase):
