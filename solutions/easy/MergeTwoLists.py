@@ -1,10 +1,8 @@
 import heapq
 from typing import Optional
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+from node.ListNode import ListNode
+
 
 class MergeTwoLists:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
