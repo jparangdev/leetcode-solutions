@@ -11,3 +11,4 @@ class ValidParentheses:
             else:
                 return False
         return stack == []
+    
