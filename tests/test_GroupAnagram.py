@@ -1,6 +1,6 @@
 import unittest
 from typing import List
-from solutions.middle.GroupAnagram import GroupAnagram
+from solutions.medium.GroupAnagram import GroupAnagram
 
 
 class TestGroupAnagram(unittest.TestCase):

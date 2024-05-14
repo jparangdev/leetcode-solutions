@@ -1,5 +1,5 @@
 import unittest
-from solutions.middle.CompareVersionNumbers import CompareVersionNumbers
+from solutions.medium.CompareVersionNumbers import CompareVersionNumbers
 
 class TestCompareVersionNumbers(unittest.TestCase):
 
